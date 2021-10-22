@@ -34,7 +34,7 @@ Have fun! - Gyfen
 
 --------------------------------
 
-USAGE:
+USAGE
 
 1) Right-click a .jar file.
 2) Hover over "Open with".

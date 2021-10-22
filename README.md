@@ -7,7 +7,7 @@ Have fun! - Gyfen
 
 ***
 
-## USAGE:
+## USAGE
 
 1. Right-click a .jar file.
 
